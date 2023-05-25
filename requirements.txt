@@ -1,4 +1,5 @@
 absl-py==1.4.0
+--upgrade pip
 tensorflow-intel==2.12.0
 astunparse==1.6.3
 blinker==1.6.2
