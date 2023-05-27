@@ -30,9 +30,6 @@ jobs:
       - name: update pip
         run: pip install --upgrade pip
         
-      - name: update GDAL
-        run: pip install --upgrade GDAL
-        
       - name: Install dependencies
         run: pip install -r requirements.txt
         
