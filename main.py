@@ -185,4 +185,4 @@ def process_image(image_path):
 
 
 if __name__ == '__main__':
-    app.run(port=7777)
+    app.run()
